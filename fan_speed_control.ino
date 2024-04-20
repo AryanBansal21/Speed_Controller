@@ -4,8 +4,9 @@
 
 #define DHTPIN D1
 
-const char* ssid     = "Vrushil's Galaxy S20 FE 5G";
-const char* password = "Patel@009";
+/* User can enter their own wifi name and password. */
+const char* ssid     = "";
+const char* password = "";
 int sp=0;
 int pin=2;
 #define pin2 D5
